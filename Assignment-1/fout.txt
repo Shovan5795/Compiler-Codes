@@ -1,0 +1,49 @@
+Got punctuation Got Keyword  Got Id 
+
+Got Keyword 
+
+Got Keyword  Got Keyword  Got Id Got punctuation 
+Got Keyword  Got Keyword  Got Id Got Operator got Digit: 12 (12)
+Got punctuation 
+Got Keyword  Got Keyword  Got Id Got Operator got Digit: 2 (2)
+Got punctuation 
+Got Keyword  Got Keyword  Got Id Got Operator Got String Got punctuation 
+
+Got Multiline comment 
+
+Got Id Got punctuation Got Id Got punctuation Got punctuation 
+Got Id Got punctuation Got Id Got punctuation Got punctuation 
+Got Id Got punctuation Got Id Got punctuation Got punctuation 
+
+Got Singleline comment 
+
+Got Singleline comment 
+Got Id Got Operator Got Id Got Operator Got Id Got punctuation 
+Got Id Got punctuation Got Id Got punctuation Got punctuation 
+
+Got Singleline comment 
+Got Id Got Operator Got Id Got Operator Got Id Got punctuation 
+Got Id Got punctuation Got Id Got punctuation Got punctuation 
+
+Got Singleline comment 
+Got Id Got Operator Got Id Got Operator Got Id Got punctuation 
+Got Id Got punctuation Got Id Got punctuation Got punctuation 
+
+Got Singleline comment 
+Got Id Got Operator Got Id Got Operator Got Id Got punctuation 
+Got Id Got punctuation Got Id Got punctuation Got punctuation 
+
+Got Singleline comment 
+Got Id  Got Id Got Operator Got Id 
+Got Id  Got Id 
+Got Id Got punctuation Got Id Got punctuation 
+
+Got Keyword 
+
+Total no. of keywords,operators,ids,digits,strings and punctuations are given below:
+No. of keywords: 11
+No. of operators: 12
+No. of ids: 38
+No. of digits: 2
+No. of strings: 11
+No. of punctuations: 32

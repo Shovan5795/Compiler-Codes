@@ -1,0 +1,8 @@
+S a aBa
+1
+B a epsilon
+1
+B b bB
+0
+S
+abba

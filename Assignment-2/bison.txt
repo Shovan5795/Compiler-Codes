@@ -1,0 +1,45 @@
+BEGIN()
+{
+ PURNOSHONGKHA x,y,z;
+
+ y==10;
+ z==2;
+ e==5;
+ put y;
+ put z;
+
+ PURNOSHONGKHA x;
+
+<&
+This is my own source code with my own syntax
+This is multiline comment
+&>
+
+@@Single line comment
+
+@@Adding two values
+x==y++z;
+put x;
+
+@@Subtracting between two values
+x==y--z;
+put x;
+
+@@Multiplicating two values
+x==y**z;
+put x;
+
+@@division of two values
+x==y%%z;
+put x;
+
+@@if else condition
+because z<<y
+3**6--2;
+
+because y>>z
+2++3**5;
+or
+2++3;
+
+}

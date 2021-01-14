@@ -1,0 +1,24 @@
+Value of the variable: 10	
+Value of the variable: 2	
+error: 'e' undeclared
+10
+2
+x is already declared
+Got Multiline comment
+ Got Singleline comment
+ Got Singleline comment
+ Value of the variable: 12	
+12
+Got Singleline comment
+ Value of the variable: 8	
+8
+Got Singleline comment
+ Value of the variable: 20	
+20
+Got Singleline comment
+ Value of the variable: 5	
+5
+Got Singleline comment
+ 
+value of expression in IF: 16
+Value of If condition : 17 
